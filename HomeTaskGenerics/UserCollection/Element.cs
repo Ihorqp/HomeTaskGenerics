@@ -1,6 +1,6 @@
 ﻿namespace HomeTaskGenerics.UserCollection
 {
-	// Класс элементов, которые будут входить в состав коллекции.
+	
 	class Element
 	{
 		public int FieldA { get; set; }
